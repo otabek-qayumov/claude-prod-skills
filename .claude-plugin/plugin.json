@@ -1,0 +1,8 @@
+{
+  "name": "prod-skills",
+  "description": "Battle-tested skills for shipping and migrating production systems: diagnose slow PaaS services, move SQLite/Prisma to PostgreSQL with proof, port code without changing behaviour, backups proven by restore drills, self-hosted deploys with rollback, background jobs that survive deploys.",
+  "version": "1.0.0",
+  "author": { "name": "otabek-qayumov" },
+  "license": "MIT",
+  "keywords": ["claude-code", "skills", "postgresql", "migration", "devops", "backups", "celery", "fastapi", "railway"]
+}

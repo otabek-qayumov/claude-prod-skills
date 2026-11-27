@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-prod-skills",
+  "description": "Battle-tested Claude Code skills for running, migrating and shipping production systems.",
+  "owner": { "name": "otabek-qayumov" },
+  "plugins": [
+    {
+      "name": "prod-skills",
+      "description": "Diagnose, migrate, back up and ship production systems — every skill distilled from a real migration, with scripts that were run against real data.",
+      "author": { "name": "otabek-qayumov" },
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}
